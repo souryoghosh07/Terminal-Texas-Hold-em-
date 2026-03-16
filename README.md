@@ -19,4 +19,4 @@ A lightweight, text-based Texas Hold'em poker engine built in Python. This game 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/souryoghosh07/Terminal-Texas-Hold-em-](https://github.com/souryoghosh07/Terminal-Texas-Hold-em-)
