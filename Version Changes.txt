@@ -1,0 +1,25 @@
+v1.0:
+
+ - Established the core mechanics for shuffling and dealing a standard deck.
+
+ - Implemented an initial hand evaluator capable of identifying ranks up to and including Three of a Kind.
+
+v2.0:
+
+ - Upgraded the hand ranking system to evaluate all hands up to a Royal Flush.
+
+ - Introduced new betting logic that allows users to Call, Raise, or Fold, with single key inputs.
+
+v3.0:
+
+ - Refined the betting process by allowing users to input the exact number of chips they want to bet.
+
+ - Developed a specialised validation layer to handle exceptions.
+
+ - Implemented safety checks to prevent users from betting more chips than they own or going below the table minimum.
+
+v4.0:
+
+ - Integrated the Colorama library to support coloured text in the terminal.
+
+ - Improved the user interface by adding distinct colours for card suits and game headers.;
