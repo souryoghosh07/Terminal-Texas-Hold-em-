@@ -2,7 +2,7 @@
 
 A lightweight, text-based Texas Hold'em poker engine built in Python. This game brings an authentic casino experience to your command line, featuring a full game loop, a robust wagering system, and a sophisticated hand evaluator.
 
-## 🃏 Features
+##  Features
 
 **Full Game Loop:** Experience every stage of a hand, including Pre-Flop, Flop, Turn, and River betting rounds.
 **Advanced Hand Evaluation:** Automatically calculates winners based on full poker rankings, from *High Card* up to a *Royal Flush*.
